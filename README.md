@@ -1,6 +1,6 @@
-# e-commerce
+# php-ecommerce-platform
 
-A e-commerce project
+- Modern and scalable architecture
 
 ## ✨ Features
 
@@ -10,8 +10,8 @@ A e-commerce project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/e-commerce.git
-cd e-commerce
+git clone https://github.com/amitdubeyup/php-ecommerce-platform.git
+cd php-ecommerce-platform
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-e-commerce/
+php-ecommerce-platform/
 ├── .env.example
 ├── README.md
 ```
